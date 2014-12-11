@@ -7,3 +7,5 @@ this file is being created after cloning the directory on local and testing to m
     3- git commit -m "any comments"
     4- git push from local git terminal
     
+-- after updating the file on github all i had to do to update it in local
+    was to issue command git pull. :)
