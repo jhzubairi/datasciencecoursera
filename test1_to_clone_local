@@ -1,3 +1,9 @@
 this file is being created after cloning the directory on local and testing to make sure the new file created will be pull in after i clone it again.
 -- after performing the clone second time got the message the dirctory already exists, hence it is required to go into the local directory and issue command git pull
 --locally updated to update on github
+  - to do this i had to follow these steps
+    1- edit file to add a row
+    2- git add -u filename ## to mark the file for update
+    3- git commit -m "any comments"
+    4- git push from local git terminal
+    
